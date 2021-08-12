@@ -4,7 +4,7 @@
 
 # BookTracker
 
-BookTracker is an IOS app which allows users to curate their own book diary by logging the books they read.
+BookTracker is an iOS app which allows users to curate their own book diary by logging the books they read.
 
 
 ## Screenshots
